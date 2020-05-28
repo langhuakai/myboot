@@ -1,0 +1,7 @@
+server:
+  servlet:
+    context-path: /hello
+  port: 8081
+
+wei:
+  name: wei
